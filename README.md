@@ -35,8 +35,6 @@ Para poder ejecutar este proyecto, necesitarás tener Python y OpenCV instalados
 
 1.  Clona o descarga este repositorio.
 2.  Asegúrate de tener una cámara conectada y configurada.
-3.  Ejecuta el script principal de Python (por ejemplo, `detector_cuerpos.py`).
+3.  Ejecuta el script principal de Python
 4.  Se abrirá una ventana mostrando el video de tu cámara con los cuerpos detectados resaltados.
 5.  Presiona la tecla 'q' para cerrar la ventana y finalizar el programa.
-
-*(Opcional: Puedes añadir aquí más secciones como "Estructura del Proyecto", "Contribuciones", "Licencia", etc., según lo necesites)*
